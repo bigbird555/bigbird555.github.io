@@ -39,7 +39,7 @@ My performance on the Programming Challenge has attracted the attention of the R
 <details><summary>6th place in Suugaku Koushien, National Mathematics Competition</summary> 
 September (2015-9) 
 
-I and other 4 students who were good at mathematics in high school participated in Suugaku Koshien (National Mathematics Competition) as a team. We won sixth place in the national tournament out of other 415 high school teams. </details> 
+I and other 4 students who were good at mathematics in high school participated in Suugaku Koshien (National Mathematics Competition) sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) as a team. We won sixth place in the national tournament out of other 415 high school teams. </details> 
 
 <details><summary>Rank A Award, Japan Mathematical Olympiad</summary> 
 Febuary (2015-2) 
