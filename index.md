@@ -1,4 +1,4 @@
-<u>Coveat</u>: This is just a rough partial resume publicly available online. If you need more detailed and accurate information, I encourage you to contact me seperately.
+<u>Coveat</u>: This is just a rough partial resume publicly available online. If you need more detailed and accurate information, I encourage you to contact me separately.
 
 #### Education
 
