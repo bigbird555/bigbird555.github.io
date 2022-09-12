@@ -58,8 +58,8 @@ Beginner Level: HTML, CSS, JavaScript, PHP, MySQL, Laravel, Java, Kotlin, Swift,
 
 #### Certifications 
 
-<details><summary>TOEFL ibt</summary> 
-I took the TOEFL ibt on January 13, 2018 and got a score of 102 (Reading: 28, Listening: 29, Speaking: 19, Writing: 26).</details> 
+<details><summary>TOEFL iBT</summary> 
+I took the TOEFL iBT on January 13, 2018 and got a score of 102 (Reading: 28, Listening: 29, Speaking: 19, Writing: 26).</details> 
 <details><summary>TensorFlow Developer Certificate</summary> 
 I passed the <a href="https://www.tensorflow.org/certificate">TensorFlow Developer Certificate program</a> exam provided by Google and was certified as a TensorFlow Developer.
 </details> 
