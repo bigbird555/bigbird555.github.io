@@ -34,14 +34,14 @@ I progressed to Round 2 of the Facebook Hacker Cup 2021.</details>
 
 My performance on the Programming Challenge has attracted the attention of the Recruiting team and I was invited to a job interview.</details> 
 
-#### Awards 
+#### Honors 
 
-<details><summary>6th place in Sugaku Koshien, National Mathematics Competition</summary> 
+<details><summary>6th Place Honor | Sugaku Koshien, National Mathematics Competition</summary> 
 September (2015-9) 
 
-I and other 4 students who were good at mathematics in high school participated in Sugaku Koshien (National Mathematics Competition) sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) as a team. We won sixth place in the national tournament out of other 415 high school teams. </details> 
+I and other 4 students who were good at mathematics in high school participated in *Sugaku Koshien* (National Mathematics Competition) sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) as a team. We won sixth place in the national tournament out of other 415 high school teams. </details> 
 
-<details><summary>Rank A Award, Japan Mathematical Olympiad</summary> 
+<details><summary>Rank A Honor | Japan Mathematical Olympiad</summary> 
 Febuary (2015-2) 
 
 I participated in Japan Mathematical Olympiad and passed the prelim to select the Japanese representatives for the International Mathematical Olympiad (IMO). Then I was recognized as one of <a href="https://www.imojp.org/archive/mo2015/jmo2015/index.html">the 175 A rankers</a> who were chosen out of all the 3,508 participants.</details>
@@ -53,7 +53,7 @@ Japanese (native) and English (proficient)</details>
 <details><summary>Programming Languages</summary> 
 Intermediate Level: C/C++, Python 
 
-Beginner Level: HTML, CSS, JavaScript, PHP, MySQL, Laravel, Java, Kotlin, Swift, Processing, Scheme, RISC-V 
+Introductory Level: HTML, CSS, JavaScript, PHP, MySQL, Laravel, Java, Kotlin, Swift, Processing, Scheme, RISC-V 
 </details>
 
 #### Certifications 
