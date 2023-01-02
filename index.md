@@ -66,6 +66,12 @@ I passed the <a href="https://www.tensorflow.org/certificate">TensorFlow Develop
 
 #### Misc 
 
+<details><summary>Jane Street Puzzles</summary>
+I submitted solutions to the following puzzles and these solutions have been accepted as correct.
+
+- <a href="https://www.janestreet.com/puzzles/die-agony-solution/">Die Agony</a>
+</details>
+
 <details><summary>LinkedIn</summary> 
 <a href="https://jp.linkedin.com/in/oracle-quantum-machine">Here</a> I may post what I have learned on my own with <a href="https://www.coursera.org">Coursera</a> and <a href="https://developers.google.com">Google Developers</a>.
 </details> 
