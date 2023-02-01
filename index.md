@@ -9,7 +9,7 @@ Department of Mathematics, Undergraduate Course.
 I took many courses on mathematics, computer science and electrical engineering.
 </details>
 
-<details><summary>Summer Program | Peking University, China</summary> July (2018-7) - August (2018-8) 
+<details><summary>International Summer Program | Peking University</summary> July (2018-7) – August (2018-8) 
 
 I participated in 2018 Peking University AEARU Program. I took Computational Game Theory Course, Senior Undergraduate and Graduate Course.</details> 
 
@@ -39,7 +39,7 @@ My performance on the Programming Challenge has attracted the attention of the R
 <details><summary>6th Place Honor | Sugaku Koshien, National Mathematics Competition</summary> 
 September (2015-9) 
 
-I and other 4 students who were good at mathematics in high school participated in *Sugaku Koshien* (National Mathematics Competition) sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) as a team. We won sixth place in the national tournament out of other 415 high school teams. </details> 
+I and other 4 students who were good at mathematics in high school participated in *Sugaku Koshien* (National Mathematics Competition) sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) as a team. We won 6th place in the national tournament out of all the 415 high school teams. </details> 
 
 <details><summary>Rank A Honor | Japan Mathematical Olympiad</summary> 
 Febuary (2015-2) 
