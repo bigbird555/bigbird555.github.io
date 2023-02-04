@@ -11,7 +11,7 @@ I took many courses on mathematics, computer science and electrical engineering.
 
 <details><summary>International Summer Program | Peking University</summary> July (2018-7) – August (2018-8) 
 
-I participated in 2018 Peking University AEARU Program. I took Computational Game Theory Course, Senior Undergraduate and Graduate Course.</details> 
+I participated in 2018 Peking University <a href="https://www.u-tokyo.ac.jp/en/academics/aearu.html">AEARU</a> Program. I took Computational Game Theory Course, Senior Undergraduate and Graduate Course.</details> 
 
 #### Work Experience
 
