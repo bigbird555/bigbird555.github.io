@@ -69,6 +69,8 @@ I passed the <a href="https://www.tensorflow.org/certificate">TensorFlow Develop
 <details><summary>Jane Street Puzzles</summary>
 I submitted solutions to the following puzzles and these solutions have been accepted as correct.
 
+- <a href="https://www.janestreet.com/puzzles/twenty-four-seven-four-in-one-solution/">Twenty Four Seven (Four-in-One)</a>
+
 - <a href="https://www.janestreet.com/puzzles/die-agony-solution/">Die Agony</a>
 </details>
 
