@@ -1,23 +1,23 @@
-<u>Coveat</u>: This is just a rough partial resume publicly available online. If you need more detailed and accurate information, I encourage you to contact me separately.
+*Coveat*: This is just a rough partial resume publicly available online. If you need more detailed and accurate information, I encourage you to contact me separately.
 
 #### Education
 
+<details><summary>Master of Science | The University of Texas at Austin</summary> 
+August, 2024 – ? 
+
+I have been admitted to the graduate school for advanced study in computer science.
+</details>
+
 <details><summary>Bachelor of Science | The University of Tokyo</summary> 
-April (2017-4) – March (2022-3) 
+April, 2017 – March, 2022 
 
 Department of Mathematics, Undergraduate Course. 
 I took many courses on mathematics, computer science and electrical engineering.
 </details>
 
-<details><summary>International Summer Program | Peking University</summary> July (2018-7) – August (2018-8) 
+<details><summary>International Summer Program | Peking University</summary> July, 2018 – August, 2018 
 
-I participated in 2018 Peking University <a href="https://www.u-tokyo.ac.jp/en/academics/aearu.html">AEARU</a> Program. I took Computational Game Theory Course, Senior Undergraduate and Graduate Course.</details> 
-
-#### Work Experience
-
-<details><summary>Internship | Cookpad Inc.</summary> March (2022-3) 
-
-I worked on backend development as a full-time software engineer intern.</details> 
+I participated in the program offered by <a href="https://www.u-tokyo.ac.jp/en/academics/aearu.html">AEARU</a>. I took Computational Game Theory Course, Senior Undergraduate and Graduate Course.</details> 
 
 
 #### Programming Contests 
@@ -26,23 +26,19 @@ I worked on backend development as a full-time software engineer intern.</detail
 
 I was ranked first in the world. :)</details>
 
-<details><summary>Facebook Hacker Cup 2021</summary> 
-
-I progressed to Round 2 of the Facebook Hacker Cup 2021.</details>
-
 <details><summary>Quora Programming Challenge 2021</summary> 
 
-My performance on the Programming Challenge has attracted the attention of the Recruiting team and I was invited to a job interview.</details> 
+My performance on the programming challenge has attracted the attention of the recruiting team and I was invited to a job interview.</details> 
 
 #### Honors 
 
 <details><summary>6th Place Honor | Sugaku Koshien, National Mathematics Competition</summary> 
-September (2015-9) 
+September 20th, 2015 
 
-I and other 4 students who were good at mathematics in high school participated in *Sugaku Koshien* (National Mathematics Competition) sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) as a team. We won 6th place in the national tournament out of all the 415 high school teams. </details> 
+I participated in *Sugaku Koshien* (National Mathematics Competition) sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) as a team. We won 6th place in the national tournament out of all the 415 high school teams. </details> 
 
 <details><summary>Rank A Honor | Japan Mathematical Olympiad</summary> 
-Febuary (2015-2) 
+February 3rd, 2015
 
 I participated in Japan Mathematical Olympiad and passed the prelim to select the Japanese representatives for the International Mathematical Olympiad (IMO). Then I was recognized as one of <a href="https://www.imojp.org/archive/mo2015/jmo2015/index.html">the 175 A rankers</a> who were chosen out of all the 3,508 participants.</details>
 
@@ -59,7 +55,10 @@ Introductory Level: HTML, CSS, JavaScript, PHP, MySQL, Laravel, Java, Kotlin, Sw
 #### Certifications 
 
 <details><summary>TOEFL iBT</summary> 
-I took the TOEFL iBT on January 13, 2018 and got a score of 102 (Reading: 28, Listening: 29, Speaking: 19, Writing: 26).</details> 
+January 13th, 2018 
+
+I got a score of 102 (Reading: 28, Listening: 29, Speaking: 19, Writing: 26).</details>
+
 <details><summary>TensorFlow Developer Certificate</summary> 
 I passed the <a href="https://www.tensorflow.org/certificate">TensorFlow Developer Certificate program</a> exam provided by Google and was certified as a TensorFlow Developer.
 </details> 
